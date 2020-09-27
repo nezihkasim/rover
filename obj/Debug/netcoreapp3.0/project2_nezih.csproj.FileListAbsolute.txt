@@ -1,0 +1,11 @@
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\bin\Debug\netcoreapp3.0\project2_nezih.exe
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\bin\Debug\netcoreapp3.0\project2_nezih.deps.json
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\bin\Debug\netcoreapp3.0\project2_nezih.runtimeconfig.json
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\bin\Debug\netcoreapp3.0\project2_nezih.runtimeconfig.dev.json
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\bin\Debug\netcoreapp3.0\project2_nezih.dll
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\bin\Debug\netcoreapp3.0\project2_nezih.pdb
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\obj\Debug\netcoreapp3.0\project2_nezih.csprojAssemblyReference.cache
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\obj\Debug\netcoreapp3.0\project2_nezih.AssemblyInfoInputs.cache
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\obj\Debug\netcoreapp3.0\project2_nezih.AssemblyInfo.cs
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\obj\Debug\netcoreapp3.0\project2_nezih.dll
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\NINOVA\project2\project2_nezih\project2-nezihkasim\project2_nezih\obj\Debug\netcoreapp3.0\project2_nezih.pdb
